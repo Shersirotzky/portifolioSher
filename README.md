@@ -1,7 +1,6 @@
 <h1 align="center">Portifolio</h1>
 
-> Este é meu portifolio e nele há alguns projetos que desenvolvi totalmente do zero sem ficar copiando codigo da internet, se quiser dar uma olhada agradeço <a href="https://carloseduardori.github.io/Portifolio-Projetos/">Visite a página</a> <br>
-> Caso quiser dar uma olhada no meu linkedin e se interessar <a href="https://www.linkedin.com/in/carlos-eduardo-ribeiro-do-patrocinio/">Linkedin</a>
+> Este é meu portifolio e nele há alguns projetos que estou desenvolvendo totalmente do zero sem ficar copiando codigo da internet, se quiser dar uma olhada agradeço!
 
 <p align="center">
   <img width="600 height="400 src="ezgif.com-gif-maker.gif">
@@ -20,7 +19,7 @@
 
 ## ✨ Atualizações:
 
-- Adicionei alguns novos projetos que desenvolvi junto com o curso da origamid
+- Adicionei alguns novos projetos que desenvolvi junto com o curso da Dio.me
 
 ## 📫 Contribuindo para Portifolio
 
@@ -32,12 +31,10 @@ Para contribuir, siga estes passos:
 4. Push sua mudança para a branch principal: `git push origin mynewfeature`
 5. Crie a solicitação pull request.
 
-você pode verificar a documentação do GitHub [Criando uma Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Contribuintes
 
 ## 📝 Licença
 Este projeto está sob licença. Verifique a [LICENÇA](LICENSE) para obter mais detalhes.
 
 
-[⬆ Volte para o topo!](https://github.com/carloseduardori/Portifolio-Projetos)<br>
+[⬆ Volte para o topo!](https://github.com/Shersirotzky/portifolioSher)<br>
